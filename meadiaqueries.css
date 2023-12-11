@@ -63,6 +63,9 @@
       height: fit-content;
       margin-bottom: 2rem;
     }
+    footer .nav-link{
+        font-size: 1rem;
+    }
     .about-containers,
     .contact-info-upper-container,
     .btn-container {
