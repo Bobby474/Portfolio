@@ -1,5 +1,5 @@
 
- @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&family=Rubik+Lines&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -160,7 +160,9 @@ section{
   .title {
     font-size: 3rem;
     text-align: center;
-  }
+    font-family: 'Rubik', sans-serif; /* Change the font-family to Rubik */
+}
+
 
   #social-container {
     display: flex;
